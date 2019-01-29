@@ -24,7 +24,7 @@ def display_users():
 def main():
     print("\033[1;36;40m PASSWORD LOCKER App\n")
     print("")
-    prom = input("Hello, welcome to Password Locker there whats your name: ")
+    prom = input("Hello, welcome to Password Locker there whats your name. ")
     print("  ")
     print("Aloha, " + prom + ", To get you started up kindly choose one of the following")
     print(" ")
