@@ -26,7 +26,7 @@ def main():
     print("")
     prom = input("Hello, welcome to Password Locker  whats your name. ")
     print("  ")
-    print("Aloha, " + prom + ", To get you started up kindly choose one of the following .")
+    print("hello, " + prom + ", To get you started up kindly choose one of the following .")
     print(" ")
     print("\033[1;34;1m  Options On how to Get Started on Password Locker\n")
     print("")
