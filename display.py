@@ -39,7 +39,7 @@ def main():
         short_code = input('Enter : ').lower().strip()
         if short_code == 'cc':
             print('To create a new account: ')
-            first_name = input("Enter the first name: ")
+            first_name = input("Enter the first name. ")
             last_name = input("Enter your last name: ")
             password = input("Enter your password: ")
             print("\033[1;32;1m  \n")
@@ -66,6 +66,6 @@ def main():
             else:
                 print("\033[1;32;1m  \n")
                 print(" ")
-                print("You don't seem to have any accounts created yet")       
+                print("You don't seem to have any accounts created yet")
 if __name__ == '__main__':
 	main()
