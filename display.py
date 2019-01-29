@@ -48,7 +48,7 @@ def main():
             print("To save an account, Enter the respective credentials :  ")
             print("--------------ssss")
             account = input("Enter the name of the account that you want to store:  ")
-            username = input("Enter the username you are using:  ")
+            username = input("Enter the username you are using.  ")
             password = input("Enter your password:  ")
             save_user(User(account, username, password ))
             print("\033[1;31;1m You have successfully saved your Credentials \n")
