@@ -46,7 +46,7 @@ if anyone has question or wants to contribute to the project the please contact 
 
 |Behavior|input|output|
 |--------|-----|------|
-|Display codes for navigation .| In terminal: $./display.py . |Hello, welcome to Password Locker  whats your name .|
+|Display codes for navigation .| In terminal: $./display.py. |Hello, welcome to Password Locker  whats your name .|
 |Display prompt for creating an account .|Enter: cc .|Enter your first name, last name and password .|
 |Display a list of credentials .|Enter: dc .|Prints a list of saved credentials .|
 |Exit application .|Enter: ex .|Exit the current navigation stage .|
