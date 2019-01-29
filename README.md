@@ -4,7 +4,7 @@ Password Locker is an application that helps users generate and store passwords 
 
 ## Author name
 
-Abdullahi Mohamaud
+Abdullahi Mohamaud .
 
 ## Project description
 
