@@ -41,3 +41,16 @@ if anyone has question or wants to contribute to the project the please contact 
 7.Press Enter. Your local clone will be created.
 
 8.install the latest version of python3.
+
+## Behavior Driven Development
+
+|Behavior|input|output|
+|--------|-----|------|
+|Display codes for navigation .| In terminal: $./display.py . |Hello, welcome to Password Locker  whats your name .|
+|Display prompt for creating an account .|Enter: cc .|Enter your first name, last name and password .|
+|Display a list of credentials .|Enter: dc .|Prints a list of saved credentials .|
+|Exit application .|Enter: ex .|Exit the current navigation stage .|
+
+## Licence
+
+MIT licence. Copyright (c) 2018 Abdillahi mohamud .
