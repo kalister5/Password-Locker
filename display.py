@@ -40,7 +40,7 @@ def main():
         if short_code == 'cc':
             print('To create a new account: ')
             first_name = input("Enter the first name. ")
-            last_name = input("Enter your last name: ")
+            last_name = input("Enter your last name. ")
             password = input("Enter your password: ")
             print("\033[1;32;1m  \n")
             print( first_name +" "+ last_name + " You have successfully signed in to Password Locker using password " + password)
