@@ -46,7 +46,7 @@ def main():
             print( first_name +" "+ last_name + " You have successfully signed in to Password Locker using password " + password)
             print("-------------- ")
             print("To save an account, Enter the respective credentials .  ")
-            print("--------------ssss")
+            print("--------------ssss.")
             account = input("Enter the name of the account that you want to store. ")
             username = input("Enter the username you are using.  ")
             password = input("Enter your password.  ")
